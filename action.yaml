@@ -1,6 +1,8 @@
 # action.yml
 name: 'bzt-taurus-action'
 description: 'Run a taurus performance test'
+icon: 'activity'
+color: 'red'
 inputs:
   taurus_project_folder_name:
     description: |
