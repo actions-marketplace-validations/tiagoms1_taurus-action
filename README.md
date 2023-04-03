@@ -30,7 +30,7 @@ Also, this enable the cloud provisioning inside taurus, which you can use inside
 ## Example usage
 
 ```yaml
-uses: tiagoms1/taurus-action@v1
+uses: tiagoms1/bzt-taurus-action@v1
 with:
   taurus_project_folder_name: 'my-scenario'
   taurus_command_line: my-scenario.yaml -report
